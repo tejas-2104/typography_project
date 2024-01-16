@@ -1,0 +1,14 @@
+.blog{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border-bottom: 2px solid rgba(0 , 0 , 0 , 0.7);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.paragraphs{
+    width: 30%;
+}
+p{
+    color: gray;
+}
